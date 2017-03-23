@@ -1,0 +1,8 @@
+[package]
+name = "woods-microblog"
+version = "0.1.0"
+authors = ["Andrei <andrei.spatricio@gmail.com>"]
+
+[dependencies]
+rocket = "0.2.3"
+rocket_codegen = "0.2.3"
